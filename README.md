@@ -255,6 +255,15 @@ Use memory_recall with key="project_status"
 
 ---
 
+## Press & Media
+
+| Publication | Article | Language |
+|-------------|---------|----------|
+| **IT-Kanalen** (Sweden) | [VORTIQ-X: Ett AI-företag byggt på svenska patent](https://it-kanalen.se/vortiq-x-ett-ai-foretag-byggt-pa-svenska-patent/) | Swedish |
+| **ChannelLife UK** | [VORTIQ-X launches runtime AI governance layer in EMEA](https://channellife.co.uk/story/vortiq-x-launches-runtime-ai-governance-layer-in-emea) | English |
+
+---
+
 ## About VORTIQ-X
 
 VORTIQ-X is a decision-intelligence platform built by [VORTIQX Consilium FZCO](https://vortiqxconsilium.com) (Dubai, UAE). The platform provides AI governance, forensic analysis, child safety, and financial intelligence — protected by Swedish Patent SE 2530558-2.
