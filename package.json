@@ -1,0 +1,37 @@
+{
+  "name": "@vortiq-x-consilium/openclaw-governance",
+  "version": "3.1.0",
+  "description": "VORTIQ-X AI Governance plugin for OpenClaw \u2014 18+ governed tools, evidence-sealed, self-updating from GovClaw server",
+  "main": "dist/index.js",
+  "keywords": [
+    "openclaw",
+    "governance",
+    "ai-safety",
+    "vortiqx",
+    "mcp",
+    "agent",
+    "deepfake",
+    "priventra"
+  ],
+  "author": "VORTIQX Consilium FZCO <info@vortiqxconsilium.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vortiqx-consilium/openclaw-governance"
+  },
+  "homepage": "https://govclaw.vortiqxconsilium.com",
+  "openclaw": {
+    "type": "plugin",
+    "displayName": "VORTIQ-X Governance",
+    "description": "AI governance, evidence sealing, deepfake detection, child safety \u2014 18+ governed tools",
+    "iconUrl": "https://govclaw.vortiqxconsilium.com/static/logos/vortiqx-favicon.ico"
+  },
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

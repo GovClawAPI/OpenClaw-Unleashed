@@ -1,0 +1,25 @@
+VORTIQ-X Governance Plugin for OpenClaw
+Copyright (c) 2025-2026 VORTIQX Consilium FZCO. All rights reserved.
+
+Patent: Swedish PRV SE 2530558-2
+
+This software is provided for use with VORTIQX Consilium's governance
+services. The plugin connects to the GovClaw platform for AI governance,
+evidence sealing, and safety detection.
+
+The underlying governance technology is patented. No rights to the patented
+methods, algorithms, or implementations are granted by distribution of this
+plugin.
+
+Permission is granted to install and use this plugin with OpenClaw for the
+purpose of connecting to VORTIQX Consilium's governance services.
+
+Redistribution of this plugin in modified form requires written permission
+from VORTIQX Consilium FZCO.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+Contact: support@vortiqxconsilium.com
+Website: https://vortiqxconsilium.com
